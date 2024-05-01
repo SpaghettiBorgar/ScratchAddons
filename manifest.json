@@ -66,7 +66,8 @@
     "addons/*",
     "libraries/*/cs/*",
     "addons-l10n/*/*.json",
-    "images/cs/*"
+    "images/cs/*",
+    "images/icons/*"
   ],
   "browser_specific_settings": {
     "gecko": {
